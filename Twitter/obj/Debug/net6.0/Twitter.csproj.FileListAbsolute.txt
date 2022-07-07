@@ -1,0 +1,12 @@
+c:\Users\maria\Desktop\Ejercicio\Twitter\Twitter\bin\Debug\net6.0\Twitter.deps.json
+c:\Users\maria\Desktop\Ejercicio\Twitter\Twitter\bin\Debug\net6.0\Twitter.dll
+c:\Users\maria\Desktop\Ejercicio\Twitter\Twitter\bin\Debug\net6.0\Twitter.pdb
+c:\Users\maria\Desktop\Ejercicio\Twitter\Twitter\obj\Debug\net6.0\Twitter.csproj.AssemblyReference.cache
+c:\Users\maria\Desktop\Ejercicio\Twitter\Twitter\obj\Debug\net6.0\Twitter.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\maria\Desktop\Ejercicio\Twitter\Twitter\obj\Debug\net6.0\Twitter.AssemblyInfoInputs.cache
+c:\Users\maria\Desktop\Ejercicio\Twitter\Twitter\obj\Debug\net6.0\Twitter.AssemblyInfo.cs
+c:\Users\maria\Desktop\Ejercicio\Twitter\Twitter\obj\Debug\net6.0\Twitter.csproj.CoreCompileInputs.cache
+c:\Users\maria\Desktop\Ejercicio\Twitter\Twitter\obj\Debug\net6.0\Twitter.dll
+c:\Users\maria\Desktop\Ejercicio\Twitter\Twitter\obj\Debug\net6.0\refint\Twitter.dll
+c:\Users\maria\Desktop\Ejercicio\Twitter\Twitter\obj\Debug\net6.0\Twitter.pdb
+c:\Users\maria\Desktop\Ejercicio\Twitter\Twitter\obj\Debug\net6.0\ref\Twitter.dll

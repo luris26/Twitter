@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twitter", "Twitter\Twitter.csproj", "{8A4B6C64-9820-4A2C-A05B-2F83D501C5B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twitter.Main", "Twitter.Main\Twitter.Main.csproj", "{078F7CE2-830C-4703-B44F-0D274E9E78B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twitter.Test", "Twitter.Test\Twitter.Test.csproj", "{D622B4B2-7B75-4ABC-BC3F-354CF9258C4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twitter.Web", "Twitter.Web\Twitter.Web.csproj", "{B768159C-C46E-4156-B74E-22CD1458B535}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A4B6C64-9820-4A2C-A05B-2F83D501C5B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A4B6C64-9820-4A2C-A05B-2F83D501C5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A4B6C64-9820-4A2C-A05B-2F83D501C5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A4B6C64-9820-4A2C-A05B-2F83D501C5B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{078F7CE2-830C-4703-B44F-0D274E9E78B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{078F7CE2-830C-4703-B44F-0D274E9E78B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{078F7CE2-830C-4703-B44F-0D274E9E78B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{078F7CE2-830C-4703-B44F-0D274E9E78B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D622B4B2-7B75-4ABC-BC3F-354CF9258C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D622B4B2-7B75-4ABC-BC3F-354CF9258C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D622B4B2-7B75-4ABC-BC3F-354CF9258C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D622B4B2-7B75-4ABC-BC3F-354CF9258C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B768159C-C46E-4156-B74E-22CD1458B535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B768159C-C46E-4156-B74E-22CD1458B535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B768159C-C46E-4156-B74E-22CD1458B535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B768159C-C46E-4156-B74E-22CD1458B535}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
